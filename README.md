@@ -28,7 +28,7 @@ Hotbar Randomizer is a Python application built with PyQt6 that simplifies the p
    ```
 2. Install the required dependencies:
    ```bash
-   pip install pyqt6 keyboard
+   pip install pyqt6 keyboard pynput
    ```
 3. Run the program:
    ```bash
@@ -40,6 +40,7 @@ Hotbar Randomizer is a Python application built with PyQt6 that simplifies the p
 - Python 3.7+
 - PyQt6 (`pip install pyqt6`)
 - keyboard (`pip install keyboard`)
+- pynput (`pip install pynput`)
 
 ## Usage Tips
 
